@@ -1,0 +1,11 @@
+{
+  "name": "tuareg",
+  "version": "1.0.0",
+  "description": "an Emacs OCaml mode",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/yunxing/tuareg.git"
+  },
+  "author": "",
+  "license": "ISC"
+}
